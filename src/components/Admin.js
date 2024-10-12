@@ -14,14 +14,14 @@ function Admin() {
     <div style = {{marginTop:"5rem"}}>
     <Form >
       <Form.Group className="mb-3" controlId="formBasicEmail">
-        <Form.Label>User Name</Form.Label>
+        <Form.Label>Enter Email</Form.Label>
         <Form.Control type="email" placeholder="Enter email" />
         <Form.Text className="text-muted">
         </Form.Text>
       </Form.Group>
 
       <Form.Group className="mb-3" controlId="formBasicPassword">
-        <Form.Label>Password</Form.Label>
+        <Form.Label>Enter Password</Form.Label>
         <Form.Control type="password" placeholder="Password" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="formBasicCheckbox">
