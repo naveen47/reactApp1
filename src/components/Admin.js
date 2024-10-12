@@ -14,7 +14,7 @@ function Admin() {
     <div style = {{marginTop:"5rem"}}>
     <Form >
       <Form.Group className="mb-3" controlId="formBasicEmail">
-        <Form.Label>User Name</Form.Label>
+        <Form.Label>Email</Form.Label>
         <Form.Control type="email" placeholder="Enter email" />
         <Form.Text className="text-muted">
         </Form.Text>
